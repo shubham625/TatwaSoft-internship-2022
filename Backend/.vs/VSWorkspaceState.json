@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore.Api",
+    "\\BookStore.Models",
+    "\\BookStore.Repository"
+  ],
+  "SelectedNode": "\\BookStore.Api\\BookStore.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}
